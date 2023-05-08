@@ -10,8 +10,8 @@ namespace ExercicioAula02
     {
         static void Main(string[] args)
         {
-            ExerciciosAula01 exercicio = new ExerciciosAula01();
-            exercicio.Exercicio03();
+            ExerciciosAula02 exercicio = new ExerciciosAula02();
+            exercicio.Exercicio08();
         }
     }
 }
