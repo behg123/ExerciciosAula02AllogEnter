@@ -1,0 +1,7 @@
+C:\Users\7628889\Documents\c#\introducao\introducao\bin\Debug\introducao.exe.config
+C:\Users\7628889\Documents\c#\introducao\introducao\bin\Debug\introducao.exe
+C:\Users\7628889\Documents\c#\introducao\introducao\bin\Debug\introducao.pdb
+C:\Users\7628889\Documents\c#\introducao\introducao\obj\Debug\introducao.csproj.AssemblyReference.cache
+C:\Users\7628889\Documents\c#\introducao\introducao\obj\Debug\introducao.csproj.CoreCompileInputs.cache
+C:\Users\7628889\Documents\c#\introducao\introducao\obj\Debug\introducao.exe
+C:\Users\7628889\Documents\c#\introducao\introducao\obj\Debug\introducao.pdb
